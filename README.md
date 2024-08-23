@@ -1,4 +1,4 @@
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif" width="1400px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuvgSVqK2VwQ9b367F3ViXI8h2YJLMuHom3g&s.gif" width="1400px">
 
 
 <h1 align="center">Hi 👋, I'm Mayank Jariya</h1>
