@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/v2/resize:fit:1000/0*eWhlGZcwxeHksiVr.gif" width="1400px">
+<img src="https://miro.medium.com/v2/resize:fit:1000/0*eWhlGZcwxeHksiVr.gif" width="1400px" height="300px">
 
 
 <h1 align="center">Hi 👋, I'm Mayank Jariya</h1>
