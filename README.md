@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuvgSVqK2VwQ9b367F3ViXI8h2YJLMuHom3g&s.gif" width="1400px">
+<img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuvgSVqK2VwQ9b367F3ViXI8h2YJLMuHom3g&s.gif](https://i.pinimg.com/originals/cd/19/aa/cd19aa1e727d79be52ac4ce88a649951.gif)" width="1400px">
 
 
 <h1 align="center">Hi 👋, I'm Mayank Jariya</h1>
